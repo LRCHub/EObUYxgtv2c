@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "I know love（feat. The Kid LAROI）",
+  "base_artist": "Tate McRae",
+  "createdAt": "2026-03-20T18:59:00.146990Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I know love (feat. The Kid Laroi)",
+      "artist": "Tate McRae",
+      "has_synced": false,
+      "path": "select/01_I_know_love_(feat._The_Kid_Laroi)_Tate_McRae.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I know love (feat. The Kid LAROI)",
+      "artist": "Tate McRae",
+      "has_synced": true,
+      "path": "select/02_I_know_love_(feat._The_Kid_LAROI)_Tate_McRae.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "i know love feat. The Kid LAROI",
+      "artist": "Tate McRae",
+      "has_synced": true,
+      "path": "select/03_i_know_love_feat._The_Kid_LAROI_Tate_McRae.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I know love (feat. The Kid LAROI) (Paused)",
+      "artist": "Tate McRae",
+      "has_synced": true,
+      "path": "select/04_I_know_love_(feat._The_Kid_LAROI)_(Paused)_Tate_McRae.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I know love (Feat. The Kid LAROI)",
+      "artist": "Tate McRae, The Kid LAROI",
+      "has_synced": true,
+      "path": "select/05_I_know_love_(Feat._The_Kid_LAROI)_Tate_McRae,_The_Kid_LAROI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I know love (feat. The Kid LAROI)",
+      "artist": "Tate McRae",
+      "has_synced": true,
+      "path": "select/06_I_know_love_(feat._The_Kid_LAROI)_Tate_McRae.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I know love (feat. The Kid LAROI)",
+      "artist": "Tate McRae/The Kid LAROI",
+      "has_synced": true,
+      "path": "select/07_I_know_love_(feat._The_Kid_LAROI)_Tate_McRae_The_Kid_LAROI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Know Love (feat. Pusha T)",
+      "artist": "Sterling Simms/Pusha T",
+      "has_synced": false,
+      "path": "select/08_I_Know_Love_(feat._Pusha_T)_Sterling_Simms_Pusha_T.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I know love (feat. The Kid LAROI)",
+      "artist": "Tate McRae, The Kid LAROI",
+      "has_synced": false,
+      "path": "select/pl_01_I_know_love_(feat._The_Kid_LAROI)_Tate_McRae,_The_Kid_LAROI.txt"
+    }
+  ]
+}
